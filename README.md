@@ -9,5 +9,6 @@ Currently, two official plugins are available:
 
 
 <h2>Project Demos:</h2>
+<img src="https://raw.githubusercontent.com/jahangir4csit/React-TicTacToe-Game/main/Screenshot%20from%202024-01-29%2020-54-08.png" alt="" />
 
 
